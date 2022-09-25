@@ -1,3 +1,3 @@
-# Clone do Site da Tesla
+## Clone do Site da Tesla
 
-<a href="https://www.tesla.com/" target="_blank" style="text-decoration: none; color: white;">Site</a>
+<p>Este projeto é um <a href="https://ui-clone-tesla.netlify.app/" target="_blank" >clone</a> da UI  do site <a href="https://ui-clone-tesla.netlify.app/" target="_blank" >Tesla</a>.</p>
